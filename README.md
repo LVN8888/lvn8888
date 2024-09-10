@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Le Van Nguyen</h1>
-<h3 align="center">A passionate and friendly backend developer.</h3>
+<h3 align="center">A resilient Fullstack developer, unafraid of challenges and always driven to find creative solutions.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lvn8888&label=Profile%20views&color=0e75b6&style=flat" alt="lvn8888" /> </p>
 
