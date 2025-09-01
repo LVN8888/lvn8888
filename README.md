@@ -1,5 +1,6 @@
-<h1 align="center">Hello World 👋, I'm Le Van Nguyen</h1>
-<h2 align="center">About Me 👨‍💻</h2>
+<h1 align="center">Hello World 👋</h1>
+
+<h3 align="left">About Me 👨‍💻</h3>
 
 <p align="left">
   I'm <strong>Le Van Nguyen</strong>, a developer passionate about <b>building robust systems</b>.<br>
