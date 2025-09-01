@@ -8,9 +8,9 @@
   Collaborative, eager to learn, and responsible — with a strong focus on growth and teamwork.
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lvn8888&label=Profile%20views&color=cf82f2&style=flat" alt="lvn8888" /> </p>
+📫 Contact me: **levannguyen2003@gmail.com**
 
-- 📫 Contact me: **levannguyen2003@gmail.com**
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=lvn8888&label=Profile%20views&color=cf82f2&style=flat" alt="lvn8888" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
