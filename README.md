@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Le Van Nguyen</h1>
-<h3 align="center">A resilient Fullstack developer, unafraid of challenges and always driven to find creative solutions.</h3>
+<h1 align="center">Hello World 👋, I'm Le Van Nguyen</h1>
+<h3 align="center">Backend Developer | Passionate about Building Robust Systems</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lvn8888&label=Profile%20views&color=cf82f2&style=flat" alt="lvn8888" /> </p>
 
@@ -7,7 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/hetcuuae" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hetcuuae" height="30" width="40" /></a>
+<a href="https://fb.com/vnguyen237" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="vnguyen237" height="30" width="40" /></a>
 <a href="https://instagram.com/kcj.ney" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kcj.ney" height="30" width="40" /></a>
 </p>
 
