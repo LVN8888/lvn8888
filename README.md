@@ -1,5 +1,11 @@
 <h1 align="center">Hello World 👋, I'm Le Van Nguyen</h1>
-<h3 align="center">Backend Developer | Passionate about Building Robust Systems</h3>
+<h2 align="center">About Me 👨‍💻</h2>
+
+<p align="left">
+  I'm <strong>Le Van Nguyen</strong>, a developer passionate about <b>building robust systems</b>.<br>
+  Specializing in <b>C#</b>, with flexibility to work with <b>Java</b> and familiarity with <b>React</b> for basic frontend development.<br>
+  Collaborative, eager to learn, and responsible — with a strong focus on growth and teamwork.
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lvn8888&label=Profile%20views&color=cf82f2&style=flat" alt="lvn8888" /> </p>
 
