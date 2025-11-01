@@ -3,9 +3,9 @@
 <h3 align="left">About Me 👨‍💻</h3>
 
 <p align="left">
-  I'm <strong>Le Van Nguyen</strong>, a developer passionate about <b>building robust systems</b>.<br>
-  Specializing in <b>C#</b>, with flexibility to work with <b>Java</b> and familiarity with <b>React</b> for basic frontend development.<br>
-  Collaborative, eager to learn, and responsible — with a strong focus on growth and teamwork.
+  I'm <strong>Le Van Nguyen</strong>, a developer dedicated to building reliable and efficient systems</b>.<br>
+  With expertise in <b>C#</b>, I am adaptable in <b>Java</b> and proficient in <b>React</b> for fundamental frontend development.<br>
+  I thrive in collaborative environments, always eager to learn and grow, with a deep commitment to responsibility and teamwork.<br>
 </p>
 
 📫 Contact me: **levannguyen2003@gmail.com**
