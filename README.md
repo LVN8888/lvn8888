@@ -1,9 +1,9 @@
 <p align="center">
   <img
     width="100%"
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:512BD4,100:0D1117&height=190&section=header&text=Le%20Van%20Nguyen&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=34&desc=Software%20Development%20%E2%80%A2%20Artificial%20Intelligence&descAlignY=56&descSize=18"
+    src="https://capsule-render.vercel.app/api?type=waving&amp;color=0%3A512BD4%2C100%3A0D1117&amp;height=190&amp;section=header&amp;text=Le%20Van%20Nguyen&amp;fontSize=42&amp;fontColor=FFFFFF&amp;fontAlignY=34&amp;desc=Software%20Development%20%7C%20Artificial%20Intelligence&amp;descAlignY=56&amp;descSize=18&amp;v=2"
     alt="Le Van Nguyen"
-  />
+  >
 </p>
 
 <p align="center">
@@ -18,13 +18,15 @@
 <h2 align="center">Tech Stack</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" alt="C#">
-  <img src="https://img.shields.io/badge/Python-20232A?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python">
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET">
-  <img src="https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
-  <img src="https://img.shields.io/badge/Docker-20232A?style=for-the-badge&logo=docker&logoColor=2496ED" alt="Docker">
-  <img src="https://img.shields.io/badge/Git-20232A?style=for-the-badge&logo=git&logoColor=F05032" alt="Git">
+  <img
+    src="https://skillicons.dev/icons?i=cs,dotnet,py,js&amp;theme=dark"
+    alt="C#, .NET, Python and JavaScript"
+  >
+  <br><br>
+  <img
+    src="https://skillicons.dev/icons?i=react,docker,git&amp;theme=dark"
+    alt="React, Docker and Git"
+  >
 </p>
 
 <h2 align="center">GitHub Activity</h2>
@@ -33,14 +35,14 @@
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://streak-stats.demolab.com?user=lvn8888&theme=github-dark-blue&hide_border=true"
+      srcset="https://streak-stats.demolab.com?user=lvn8888&amp;theme=github-dark-blue&amp;hide_border=true"
     >
     <source
       media="(prefers-color-scheme: light)"
-      srcset="https://streak-stats.demolab.com?user=lvn8888&hide_border=true"
+      srcset="https://streak-stats.demolab.com?user=lvn8888&amp;hide_border=true"
     >
     <img
-      src="https://streak-stats.demolab.com?user=lvn8888&hide_border=true"
+      src="https://streak-stats.demolab.com?user=lvn8888&amp;hide_border=true"
       alt="GitHub contribution streak"
     >
   </picture>
@@ -49,7 +51,16 @@
 <h2 align="center">Contact</h2>
 
 <p align="center">
-  <a href="mailto:levannguyen2003@gmail.com">Email</a>
-  ·
-  <a href="https://facebook.com/vnguyen237">Facebook</a>
+  <a href="mailto:levannguyen2003@hotmail.com">
+    <img
+      src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&amp;logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI2ZmZiIgZD0iTTIwIDRINGEyIDIgMCAwIDAtMiAydjEyYTIgMiAwIDAgMCAyIDJoMTZhMiAyIDAgMCAwIDItMlY2YTIgMiAwIDAgMC0yLTJ6bTAgNC04IDUtOC01VjZsOCA1IDgtNXYyeiIvPjwvc3ZnPg%3D%3D&amp;logoColor=white"
+      alt="Email"
+    >
+  </a>
+  <a href="https://facebook.com/vnguyen237">
+    <img
+      src="https://img.shields.io/badge/Facebook-0866FF?style=for-the-badge&amp;logo=facebook&amp;logoColor=white"
+      alt="Facebook"
+    >
+  </a>
 </p>
